@@ -1,5 +1,5 @@
 # TelloDrone
 ## Modules
-opencv-python
-djitellopy
-numpy
+- opencv-python
+- djitellopy
+- numpy
